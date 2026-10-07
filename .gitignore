@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Regenerable artifacts (rebuild by running the notebooks / scripts).
+# Deliverable report and dashboard files are intentionally NOT ignored.
+data/processed/
+models/*.joblib
+
+# Power BI temp
+~$*.pbix

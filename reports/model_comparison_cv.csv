@@ -1,0 +1,4 @@
+model,cv_test_accuracy,cv_test_precision,cv_test_recall,cv_test_f1,cv_test_roc_auc,cv_test_average_precision
+logistic_regression,0.7508,0.52,0.7946,0.6285,0.8472,0.6608
+random_forest,0.7799,0.575,0.6502,0.6101,0.8279,0.6162
+xgboost,0.7694,0.5561,0.6522,0.6,0.8271,0.6315

@@ -1,0 +1,4 @@
+Contract,customers,churners,monthly_revenue,churn_rate_pct
+Month-to-month,3875,1655,257294.15,42.71
+One year,1473,166,95816.6,11.27
+Two year,1695,48,103005.85,2.83

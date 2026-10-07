@@ -1,0 +1,7 @@
+metric,estimate
+High-risk customers,"2,503"
+"Monthly revenue of High-risk customers (run-rate exposure estimate, upper bound)","$193,567"
+"Annualized exposure estimate (x12, assumes 1 year at current run-rate, no intervention)","$2,322,809"
+Probability-weighted monthly exposure (headline estimate),"$146,705"
+High-risk AND high-value (top-quartile) customers,781
+Monthly revenue of High-risk AND high-value customers (estimate),"$76,651"

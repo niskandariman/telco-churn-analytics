@@ -1,0 +1,8 @@
+kpi,value
+total_customers,7043.0
+churn_rate_pct,26.54
+total_monthly_revenue,456116.6
+avg_monthly_charges,64.76
+high_risk_customers,2503.0
+estimated_monthly_revenue_at_risk,146705.02
+estimated_annualized_revenue_at_risk,1760460.24

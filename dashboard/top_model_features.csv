@@ -1,0 +1,16 @@
+Unnamed: 0,coefficient
+tenure,-0.4903473658482467
+Contract_Month-to-month,0.4777942925354941
+Contract_Two year,-0.471176870382605
+tenure_band_0-6 mo,0.3926563037682067
+avg_monthly_to_date,0.2248832760796596
+InternetService_DSL,-0.2166388392071721
+MonthlyCharges,0.2090672506743636
+InternetService_Fiber optic,0.2089873974574886
+PaperlessBilling_No,-0.2065666034644262
+MultipleLines_No,-0.1852540545649985
+tenure_band_25-48 mo,-0.1844940916412686
+OnlineSecurity_Yes,-0.175776285401518
+TechSupport_Yes,-0.1710738834437532
+tenure_band_13-24 mo,-0.1703214810583193
+PhoneService_Yes,-0.1685392422166439

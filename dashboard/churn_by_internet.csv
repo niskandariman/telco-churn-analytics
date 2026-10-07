@@ -1,0 +1,4 @@
+InternetService,customers,churners,monthly_revenue,churn_rate_pct
+DSL,2421,459,140665.35,18.96
+Fiber optic,3096,1297,283284.4,41.89
+No,1526,113,32166.85,7.4

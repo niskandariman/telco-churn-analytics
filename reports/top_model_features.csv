@@ -1,0 +1,58 @@
+,coefficient
+tenure,-0.49034736584824673
+Contract_Month-to-month,0.4777942925354941
+Contract_Two year,-0.471176870382605
+tenure_band_0-6 mo,0.3926563037682067
+avg_monthly_to_date,0.2248832760796596
+InternetService_DSL,-0.2166388392071721
+MonthlyCharges,0.2090672506743636
+InternetService_Fiber optic,0.20898739745748868
+PaperlessBilling_No,-0.20656660346442623
+MultipleLines_No,-0.18525405456499855
+tenure_band_25-48 mo,-0.18449409164126862
+OnlineSecurity_Yes,-0.175776285401518
+TechSupport_Yes,-0.17107388344375324
+tenure_band_13-24 mo,-0.17032148105831935
+PhoneService_Yes,-0.16853924221664393
+OnlineSecurity_No,0.16812484365182448
+TechSupport_No,0.16342244169407152
+PaymentMethod_Mailed check,-0.15270652836406606
+PaymentMethod_Electronic check,0.1520096137757729
+Dependents_Yes,-0.14346235974792212
+SeniorCitizen_0,-0.14111444139606558
+TotalCharges,-0.12104581358576615
+PaperlessBilling_Yes,0.11130072905149374
+auto_payment,-0.10692331172062508
+Contract_One year,-0.10188329656582513
+StreamingMovies_No,-0.08828147573364088
+OnlineSecurity_No internet service,-0.08761443266323898
+OnlineBackup_No internet service,-0.08761443266323898
+StreamingTV_No internet service,-0.08761443266323898
+TechSupport_No internet service,-0.08761443266323898
+InternetService_No,-0.08761443266323898
+StreamingMovies_No internet service,-0.08761443266323898
+DeviceProtection_No internet service,-0.08761443266323898
+StreamingTV_No,-0.0832374123260097
+StreamingMovies_Yes,0.08063003398394573
+OnlineBackup_Yes,-0.07972198805715222
+StreamingTV_Yes,0.07558597057631843
+PhoneService_No,0.07327336780370255
+MultipleLines_No phone service,0.07327336780370255
+OnlineBackup_No,0.07207054630746867
+tenure_band_49-72 mo,-0.06969554566199604
+tenure_band_7-12 mo,-0.06341105981956147
+gender_Female,-0.05973817431922489
+fiber_no_protection,0.05868360391783793
+Partner_Yes,-0.05446245499166002
+PaymentMethod_Credit card (automatic),-0.048519442099838175
+Dependents_No,0.04819648533498691
+PaymentMethod_Bank transfer (automatic),-0.046049517724798386
+SeniorCitizen_1,0.0458485669831256
+service_breadth,-0.04327756112041764
+Partner_No,-0.04080341942126352
+addon_count,-0.0407089368254388
+gender_Male,-0.03552770009370047
+MultipleLines_Yes,0.016714812348365263
+DeviceProtection_No,-0.006452361059710705
+DeviceProtection_Yes,-0.0011990806899776706
+has_addon_services,-0.0010858940418705723
